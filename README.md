@@ -1,6 +1,6 @@
 ## Description
 
-This project is a simplified front end clone of Netflix. It was created with React and CSS (Grid and Flexbox). It uses The MovieDB Api to search for movies and display details. Feel free to contribute!
+This project is a simplified front end clone of Netflix. It was created with React and CSS (Grid and Flexbox). It uses The MovieDB Api to search for movies and display details.
 
 ## Tools used:
 React (hooks)
