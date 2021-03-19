@@ -3,10 +3,12 @@ import Row from "./components/Row/Row";
 import Banner from "./components/Banner/Banner";
 import requests from "./request";
 import "./App.css";
+import Nav from "./components/Nav/Nav";
 
-const App: React.FunctionComponent = (props) => {
+const App: React.FunctionComponent = () => {
   return (
     <div className="App">
+      <Nav />
       <Banner />
       <Row
         title="NETFLIX ORIGINALS"
